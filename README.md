@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Alissa 👋
 
-<!--
-**abeaderstadt/abeaderstadt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a certifying scientist working in a toxicology lab and currently exploring the world of data analytics. I'm learning Python, SQL, and building interactive apps using PyShiny. I enjoy finding patterns in data and turning them into meaningful insights.
 
-Here are some ideas to get you started:
+## What I'm working on
+- Creating interactive analytics apps in Python
+- Exploring real-world data projects from class
+- Getting more comfortable with GitHub and version control
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools & Languages
+- Python, SQL
+- GitHub, VS Code, Jupyter Notebooks
+- Power BI, Excel
+
+## Currently learning
+- PyShiny for interactive dashboards
+- Continuous Intelligence and real-time data workflows
+
+## How to reach me
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/](https://www.linkedin.com/in/alissa-beaderstadt-390614233/) or email me at alissabeaderstadt@outlook.com
+
+---
+
+Thanks for visiting!
+
