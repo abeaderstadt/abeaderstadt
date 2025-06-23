@@ -17,7 +17,7 @@ I'm a certifying scientist working in a toxicology lab and currently exploring t
 - Continuous Intelligence and real-time data workflows
 
 ## How to reach me
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/](https://www.linkedin.com/in/alissa-beaderstadt-390614233/) or email me at alissabeaderstadt@outlook.com
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/alissa-beaderstadt-390614233)  or email me at alissabeaderstadt@outlook.com
 
 ---
 
