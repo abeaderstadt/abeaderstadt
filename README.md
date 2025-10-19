@@ -4,7 +4,7 @@ I'm a certifying scientist working in a toxicology lab and currently exploring t
 
 ## What I'm working on
 - Creating interactive analytics apps in Python
-- Exploring real-world data projects from class
+- Exploring real world data projects from class
 - Getting more comfortable with GitHub and version control
 
 ## Tools & Languages
@@ -14,7 +14,7 @@ I'm a certifying scientist working in a toxicology lab and currently exploring t
 
 ## Currently learning
 - PyShiny for interactive dashboards
-- Continuous Intelligence and real-time data workflows
+- Continuous Intelligence and real time data workflows
 
 ## How to reach me
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/alissa-beaderstadt-390614233)  or email me at alissabeaderstadt@outlook.com
