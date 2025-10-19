@@ -1,6 +1,6 @@
 # Hi, I'm Alissa 👋
 
-I'm a certifying scientist working in a toxicology lab and currently exploring the world of data analytics. I'm learning Python, SQL, and building interactive apps using PyShiny. I enjoy finding patterns in data and turning them into meaningful insights.
+I'm a certifying scientist working in a toxicology lab and currently exploring the world of data analytics. I'm learning Python, SQL, and building interactive apps using PyShiny. I love digging into data, spotting patterns, and turning them into insights you can actually use.
 
 ## What I'm working on
 - Creating interactive analytics apps in Python
