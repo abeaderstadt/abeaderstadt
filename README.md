@@ -5,7 +5,7 @@ I'm a certifying scientist working in a toxicology lab and currently exploring t
 ## What I'm working on
 - Creating interactive analytics apps in Python
 - Exploring real world data projects from class
-- Getting more comfortable with GitHub and version control
+- Web Mining and Applied NLP
 
 ## Tools & Languages
 - Python, SQL
